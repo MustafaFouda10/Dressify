@@ -1,0 +1,6 @@
+@Dressify.API_HostAddress = http://localhost:5104
+
+GET {{Dressify.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
